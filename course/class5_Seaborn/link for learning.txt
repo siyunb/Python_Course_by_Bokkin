@@ -1,0 +1,4 @@
+1）Seaborn官方文档： 
+http://seaborn.pydata.org/tutorial.html#
+2）Seaborn中文教程：
+http://www.cnblogs.com/kylinlin/p/5236601.html

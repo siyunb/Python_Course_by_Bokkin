@@ -1,0 +1,10 @@
+官方文档“10 minutes to Pandas”：
+http://pandas.pydata.org/pandas-docs/stable/10min.html
+
+
+“10 minutes to Pandas”对应的中文翻译：
+ http://www.cnblogs.com/chaosimple/p/4153083.html
+
+
+易百教程：
+https://www.yiibai.com/pandas

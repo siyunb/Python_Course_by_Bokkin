@@ -1,0 +1,5 @@
+Numpy官方入门教程：
+https://docs.scipy.org/doc/numpy-dev/user/quickstart.html 
+
+易百教程：
+https://www.yiibai.com/numpy/numpy_array_attributes.html

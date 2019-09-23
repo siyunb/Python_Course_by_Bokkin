@@ -1,0 +1,4 @@
+1）Matplotlib官方示例：
+http://matplotlib.org/gallery.html 
+2）Matplotlib中文教程：
+http://old.sebug.net/paper/books/scipydoc/matplotlib_intro.html
