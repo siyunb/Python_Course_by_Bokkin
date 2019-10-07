@@ -1,0 +1,1 @@
+wheel 相当于 module的待安装版，在cmd中输入pip install ****.whl, 运行。即可在python中装入相应模块
